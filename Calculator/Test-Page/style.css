@@ -1,0 +1,42 @@
+p {
+    color: red;
+}
+
+.main {
+    border: 1px black solid;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+    width: 50%;
+}
+
+#top {
+    height: 60px;
+    border: 1px black solid;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+#bottom {
+    height: 10px;
+    background-color: gray;
+    border: 1px black solid;
+}
+
+#result {
+    height: 60px;
+    border: 1px black solid;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.cell {
+    border: 1px black solid;
+    height: 40px;
+    font-size: 25px;
+    padding-top: 1px;
+}
+
+.cell:hover {
+    background-color: rgba(0,0,0,.075);
+}
